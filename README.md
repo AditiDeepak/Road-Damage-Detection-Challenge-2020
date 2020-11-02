@@ -1,6 +1,6 @@
 # rddc2020
-road damage detection challenge 2020
-
+Road Damage Detection Challenge 2020
+Contributors - Aditi H. Deepak, Dweep Trivedi, Vinuta Hegde, Abdullah Alfarrarjeh
 
 # road damage detection challange 2020 IMSC submission
 
